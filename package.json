@@ -1,0 +1,24 @@
+{
+  "name": "crud-",
+  "version": "1.0.0",
+  "description": "Repositorio crud",
+  "homepage": "https://github.com/GabrielBr1to/CRUD-#readme",
+  "bugs": {
+    "url": "https://github.com/GabrielBr1to/CRUD-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBr1to/CRUD-.git"
+  },
+  "license": "ISC",
+  "author": "Venancio",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
